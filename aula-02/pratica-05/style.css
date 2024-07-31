@@ -29,7 +29,6 @@ input {
   gap: 1rem;
   padding: 1rem;
   background-color: #232833;
-  width: 33%;
 
   form {
     display: grid;
